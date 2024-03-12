@@ -46,7 +46,7 @@ const Signup = () => {
            Hey {user.email}
           </p>
           <p className="mt-1 text-sm text-gray-500">
-            Check your mail and verify
+            You are registered successfully 
           </p>
         </div>
       </div>
